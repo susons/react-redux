@@ -9,7 +9,7 @@ const App = () => {
         <div className="column eight wide">
           <SongList />
         </div>
-        <div className="column eigth wide">
+        <div className="column eight wide">
           <SongDetail />
         </div>
       </div>
